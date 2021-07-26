@@ -56,6 +56,11 @@ dont forget to enable cache control time in /usr/local/nginx/conf/wpincludes/dom
 
 
 
+### amplify step 2
+our conf file at /usr/local/nginx/conf/conf.d/
+
+
+
 
 
 
