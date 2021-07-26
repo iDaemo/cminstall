@@ -52,8 +52,7 @@ then time to centmin mod
 curl -LJO https://raw.githubusercontent.com/iDaemo/cminstall/master/cminstall.sh && bash cminstall.sh
 
 
-
-..
+dont forget to enable cache control time in /usr/local/nginx/conf/wpincludes/domain.com/cachenebler.domain.com
 
 
 
