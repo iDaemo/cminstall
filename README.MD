@@ -1,4 +1,4 @@
-Server Deploy Project - centmin mod
+**Server Deploy Project - centmin mod**
 
 After deploy cloud server use provide console to change sshd
 
