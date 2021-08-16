@@ -1,4 +1,5 @@
 #!/bin/bash
+setenforce 0
 mkdir -p /etc/centminmod
 touch /etc/centminmod/custom_config.inc
 EMAIL=nattapoom.p@gmail.com
