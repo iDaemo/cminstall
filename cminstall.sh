@@ -53,7 +53,7 @@ echo "AUTODETECPHP_OVERRIDE='y'" >> /etc/centminmod/custom_config.inc
 echo "WPCLI_CE_QUERYSTRING_INCLUDED='y'" >> /etc/centminmod/custom_config.inc
 echo "AUDITD_ENABLE='y'" >> /etc/centminmod/custom_config.inc
 echo "AUTOTUNE_CLIENTMAXBODY='y'" >> /etc/centminmod/custom_config.inc
-yum -y update; curl -O https://centminmod.com/betainstaller80.sh && chmod 0700 betainstaller80.sh && bash betainstaller80.sh
+yum -y update; curl -O https://centminmod.com/betainstaller81.sh && chmod 0700 betainstaller81.sh && bash betainstaller81.sh
 /usr/local/src/centminmod/tools/auditd.sh setup
 /usr/local/src/centminmod/tools/csf-advancetweaks.sh
 csf --profile backup backup-b4-customregex
